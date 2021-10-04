@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/lovies/static/css/main.588250de.chunk.css",
-    "main.js": "/lovies/static/js/main.fecbd953.chunk.js",
-    "main.js.map": "/lovies/static/js/main.fecbd953.chunk.js.map",
+    "main.js": "/lovies/static/js/main.11f12282.chunk.js",
+    "main.js.map": "/lovies/static/js/main.11f12282.chunk.js.map",
     "runtime-main.js": "/lovies/static/js/runtime-main.c0e20aa8.js",
     "runtime-main.js.map": "/lovies/static/js/runtime-main.c0e20aa8.js.map",
     "static/css/2.24a43492.chunk.css": "/lovies/static/css/2.24a43492.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.24a43492.chunk.css",
     "static/js/2.53f97a58.chunk.js",
     "static/css/main.588250de.chunk.css",
-    "static/js/main.fecbd953.chunk.js"
+    "static/js/main.11f12282.chunk.js"
   ]
 }
